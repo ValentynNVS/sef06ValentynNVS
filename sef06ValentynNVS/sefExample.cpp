@@ -10,5 +10,7 @@ int main(void) {
 	}
 	else {
 		printf("The number is more than 15\n");
+		printf("The number is more than 15\n");
+		printf("The number is more than 15\n");
 	}
 }
