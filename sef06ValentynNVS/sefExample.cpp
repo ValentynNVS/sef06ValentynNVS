@@ -9,6 +9,6 @@ int main(void) {
 		printf("The number is : %d\n", num);
 	}
 	else {
-		printf("The number is more than 15\n");
+		printf("HERE IS THE AREA OF CONFLICT");
 	}
 }
