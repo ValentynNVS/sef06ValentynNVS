@@ -8,4 +8,7 @@ int main(void) {
 	if (num < 15) {
 		printf("The number is : %d\n", num);
 	}
+	else {
+		printf("The number is more than 15\n");
+	}
 }
