@@ -6,6 +6,6 @@ int main(void) {
 	//This is just a simple code for the assignment
 	int num = 10;
 	if (num < 15) {
-		printf("The number is : %d\n");
+		printf("The number is : %d\n", num);
 	}
 }
