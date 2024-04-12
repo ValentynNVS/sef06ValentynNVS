@@ -10,5 +10,8 @@ int main(void) {
 	}
 	else {
 		printf("HERE IS THE AREA OF CONFLICT");
+		printf("HERE IS THE AREA OF CONFLICT");
+		printf("HERE IS THE AREA OF CONFLICT");
+		printf("HERE IS THE AREA OF CONFLICT");
 	}
 }
